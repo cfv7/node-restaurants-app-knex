@@ -9,7 +9,7 @@ module.exports = {
             database: 'dev-restaurants-app'
         },
         // enable debug mode
-        // debug: true
+        debug: true
         
     },
     TEST: {
